@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img src="1996.jpg"/>
+<img src="/Users/jamesolson/IdeaProjects/Misc/pics/1996.jpg"/>
 
 Some Technologies
 
