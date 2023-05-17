@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Jimolson-git/misc/blob/main/pics/4786506%202.jpg"/>
+<img src="https://github.com/Jimolson-git/misc/blob/main/pics/1996.jpg"/>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 <!--
