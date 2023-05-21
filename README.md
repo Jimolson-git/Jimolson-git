@@ -1,7 +1,20 @@
 
 <img src="https://github.com/Jimolson-git/misc/blob/main/pics/53.sky-wallpaper-android-iphone-desktop-hd-backgrounds-wallpapers-1080p-4khd-wallpapers-desktop-background-android-iphone-1080p-4k-3zs3m.jpg"/>
-<p> Hi, im Jim.</p>
-<p> Welcome to my Github.</p>
+<div id="onediv">
+    <p> Hi, im Jim.</p>
+    <p> Welcome to my Github.</p>
+</div>
+
+
+<style>
+    #onediv {
+        position: absolute;
+        z-index: 100;
+        left: 50%;
+        top: 50%;
+    }
+
+</style>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 <!--
