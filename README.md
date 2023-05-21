@@ -1,5 +1,5 @@
 
-<link src= "https://github.com/Jimolson-git/misc/tree/main">
+img src="https://github.com/Jimolson-git/misc/blob/main/pics/gitcover.jpeg">
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
