@@ -1,5 +1,5 @@
 
-<p src="https://github.com/Jimolson-git/misc/blob/main/html/html.html"></p>
+<p href="https://github.com/Jimolson-git/misc/blob/main/html/html.html"></p>
 
 <a href="https://www.linkedin.com/in/jim-olson456/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
