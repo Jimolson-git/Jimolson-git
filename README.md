@@ -1,4 +1,4 @@
-(https://github.com/Jimolson-git/misc/blob/main/html/html.html)
+[](https://github.com/Jimolson-git/misc/blob/main/html/html.html)
 
 <a href="https://www.linkedin.com/in/jim-olson456/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
