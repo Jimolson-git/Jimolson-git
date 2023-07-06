@@ -1,4 +1,4 @@
-http://localhost:63342/Misc/html/html.html?_ijt=nr5rmalmvm76qlctgack0jbp71&_ij_reload=RELOAD_ON_SAVE
+(https://github.com/Jimolson-git/misc/tree/main/html)
 
 <a href="https://www.linkedin.com/in/jim-olson456/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
